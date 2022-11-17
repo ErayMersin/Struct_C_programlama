@@ -1,0 +1,3 @@
+﻿  Kaynak.c
+C:\Users\eray\source\repos\Struct\Struct\Kaynak.c(14,25): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  Struct.vcxproj -> C:\Users\eray\source\repos\Struct\x64\Debug\Struct.exe
